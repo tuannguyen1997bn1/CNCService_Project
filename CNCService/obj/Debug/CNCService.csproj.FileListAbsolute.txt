@@ -1,0 +1,63 @@
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\CNCService.exe.config
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\CNCService.exe
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\CNCService.pdb
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.ProjectInstaller.resources
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.csproj.GenerateResource.cache
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.csproj.CoreCompileInputs.cache
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.exe
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.pdb
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\EntityFramework.dll
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.dll
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\EntityFramework.xml
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.xml
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\obj\Debug\CNCService.csproj.CopyComplete
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\Newtonsoft.Json.dll
+E:\RAVproject\WISE4051_Project - new\CNCService\CNCService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\CNCService.exe.config
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\CNCService.exe
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.ProjectInstaller.resources
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.exe
+C:\Users\Admin\Desktop\CNCService\CNCService\obj\Debug\CNCService.pdb
+C:\Users\Admin\Desktop\CNCService\CNCService\bin\Debug\CNCService.pdb
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\CNCService.exe.config
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\CNCService.exe
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\CNCService.pdb
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.ProjectInstaller.resources
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.csproj.CopyComplete
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.exe
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.pdb
+C:\Users\Admin\Desktop\backuo\CNCService\CNCService\obj\Debug\CNCService.csprojAssemblyReference.cache
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\CNCService.exe.config
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\CNCService.exe
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\CNCService.pdb
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.ProjectInstaller.resources
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.csproj.GenerateResource.cache
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.csproj.CopyComplete
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.exe
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\obj\Debug\CNCService.pdb
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Lucene.Net.dll
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Magnum.dll
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Lucene.Net.pdb
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Lucene.Net.xml
+C:\Users\tuan\Desktop\RAV\CNCService\CNCService\bin\Debug\Magnum.xml

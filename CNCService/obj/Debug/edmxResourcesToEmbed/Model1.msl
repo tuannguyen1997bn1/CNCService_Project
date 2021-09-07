@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CNCprojectModelStoreContainer" CdmEntityContainer="CNCprojectEntities">
+    <EntitySetMapping Name="ChucVus">
+      <EntityTypeMapping TypeName="CNCprojectModel.ChucVu">
+        <MappingFragment StoreEntitySet="ChucVu">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC1">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC1">
+        <MappingFragment StoreEntitySet="EventManagerCNC1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC2">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC2">
+        <MappingFragment StoreEntitySet="EventManagerCNC2">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC3">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC3">
+        <MappingFragment StoreEntitySet="EventManagerCNC3">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC4">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC4">
+        <MappingFragment StoreEntitySet="EventManagerCNC4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC5">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC5">
+        <MappingFragment StoreEntitySet="EventManagerCNC5">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC6">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC6">
+        <MappingFragment StoreEntitySet="EventManagerCNC6">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC7">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC7">
+        <MappingFragment StoreEntitySet="EventManagerCNC7">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventManagerCNC8">
+      <EntityTypeMapping TypeName="CNCprojectModel.EventManagerCNC8">
+        <MappingFragment StoreEntitySet="EventManagerCNC8">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdHienTrangMayCNC" ColumnName="IdHienTrangMayCNC" />
+          <ScalarProperty Name="IdHienTrangCuaMayCNC" ColumnName="IdHienTrangCuaMayCNC" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HienTrangCuaMayCNCs">
+      <EntityTypeMapping TypeName="CNCprojectModel.HienTrangCuaMayCNC">
+        <MappingFragment StoreEntitySet="HienTrangCuaMayCNC">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HienTrangMayCNCs">
+      <EntityTypeMapping TypeName="CNCprojectModel.HienTrangMayCNC">
+        <MappingFragment StoreEntitySet="HienTrangMayCNC">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhanViens">
+      <EntityTypeMapping TypeName="CNCprojectModel.NhanVien">
+        <MappingFragment StoreEntitySet="NhanVien">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="IdCaLamViec" ColumnName="IdCaLamViec" />
+          <ScalarProperty Name="IdChucVu" ColumnName="IdChucVu" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OnlineStatus">
+      <EntityTypeMapping TypeName="CNCprojectModel.OnlineStatu">
+        <MappingFragment StoreEntitySet="OnlineStatus">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="IdCaLamViec" ColumnName="IdCaLamViec" />
+          <ScalarProperty Name="IdChucVu" ColumnName="IdChucVu" />
+          <ScalarProperty Name="StatusOnl" ColumnName="StatusOnl" />
+          <ScalarProperty Name="ThoiDiem" ColumnName="ThoiDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
